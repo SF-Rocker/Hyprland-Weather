@@ -15,5 +15,5 @@ Celsius was changed to Fahrenheit for you.
 Metric = Celsius &
 Imperial = Fahrenheit
 
-# Other Note put these two files in the .config/hypr/UserScripts folder and overide existing data.
+# Other Note put these two files in the .config/hypr/UserScripts folder and override existing data.
 # Regular Hyprland Weather Script is a auto generated prediction based on your ISP's IP address, that could be 60 miles away from you.
