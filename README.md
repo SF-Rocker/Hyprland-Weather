@@ -5,7 +5,7 @@ Use Thonny to Change Station ID to your Cloest Area just Bing "How to Find NOAA 
 
 ```station_id = "KSHV"```
 
-CHange KSHV Shreveport to another Location.
+Change KSHV Shreveport to another Location.
 
 Note the line in Python Bash Shell Script or Python3.sh in the UserScripts folder as follows
 
