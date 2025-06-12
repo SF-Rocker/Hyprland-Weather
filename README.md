@@ -12,7 +12,7 @@ Note the line in Python Bash Shell Script or Python3.sh in the UserScripts folde
 ``` data=($(curl -s https://en.wttr.in/"$city"$1\?0qnTu 2>&1)) ```
 At the End U is added for Imperial Units
 Celsius was changed to Fahrenheit for you.
-Metric = Celsius
+Metric = Celsius &
 Imperial = Fahrenheit
 
 # Other Note put these two files in the .config/hypr/UserScripts folder and overide existing data.
